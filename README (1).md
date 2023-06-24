@@ -1,5 +1,7 @@
 
 # PROJECT NAME : 
+![image](https://github.com/Lalitvats2105/HR-Analytics-Dashboad-Using-Tableau/assets/84177648/827f8e5d-254f-4358-9abd-fd1a28c0e8ed)
+
 
 HR Analytics: A Complete Employee Data Analysis Project using Tableau Dashboard
 
@@ -69,3 +71,6 @@ This includes trendline and target line to help HR managers track progress towar
 ```
 
 # DASHBOARD : 
+![hr Dashboard final](https://github.com/Lalitvats2105/HR-Analytics-Dashboad-Using-Tableau/assets/84177648/7e62e140-ff63-495f-98a5-37aa7fc7321e)
+
+
